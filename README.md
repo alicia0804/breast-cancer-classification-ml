@@ -24,9 +24,4 @@ Results and Learning
 This project helped me understand the core steps of a machine learning workflow from loading and preprocessing data to training a predictive model and interpreting results.
 It also showed me the importance of using evaluation metrics carefully, especially in medical datasets where accuracy has real implications.
 
-Technologies Used
-Python
-NumPy
-Pandas
-Scikit-learn
-Matplotlib 
+Technologies Used: Python, NumPy, Pandas, Scikit-learn, Matplotlib 
